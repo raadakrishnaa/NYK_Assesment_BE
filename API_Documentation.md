@@ -6,7 +6,7 @@ This document describes all available REST endpoints for the Notes App backend, 
 
 ## Base URLs
 - **Local Development**: `http://localhost:5000`
-- **Production (Vercel)**: `https://your-vercel-domain.vercel.app` (replace with your actual Vercel project URL)
+- **Production (Vercel)**: `https://nyk-assesment-be.vercel.app`
 
 ---
 
